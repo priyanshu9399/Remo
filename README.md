@@ -1,2 +1,2 @@
-# Remo
-Hajah sjuab iai ski Jak jsk 
+# Remo #
+netsh wlan show profile name=satnam automobiles key=
